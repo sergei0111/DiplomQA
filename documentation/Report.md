@@ -14,7 +14,7 @@
 * 24 (80%) успешных
 * 6 (20%) не успешных
 
-  ![ALLURE REPORT.png](![img_1.png](img_1.png))
+  [ALLURE REPORT](img_2.png)
   [В результате прогона тестов было составлено 6 баг-репортов](https://github.com/sergei0111/DiplomQA/issues)
 
 ## Общие рекомендации
